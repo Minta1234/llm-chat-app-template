@@ -39,8 +39,8 @@ This template demonstrates how to build an AI-powered chat interface using Cloud
 1. Clone this repository:
 
    ```bash
-   https://github.com/Minta1234/llm-chat-app-template.git
-   cd templates/llm-chat-app
+  git clone https://github.com/Minta1234/llm-chat-app-template.git
+   cd llm-chat-app-template
    ```
 
 2. Install dependencies:
