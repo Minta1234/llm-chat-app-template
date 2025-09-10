@@ -40,8 +40,7 @@ This template demonstrates how to build an AI-powered chat interface using Cloud
 
    ```bash
 https://github.com/Minta1234/llm-chat-app-template.git
-   ```
-   ```
+
    cd llm-chat-app-template
    ```
 
